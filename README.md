@@ -7,15 +7,12 @@ sdk: streamlit
 app_file: app.py
 pinned: false
 ---
-
 # Credit Risk Analyzer & Agentic Underwriting Copilot
 
 **Explainable AI Lending System with Automated OCR Agent**
 
 An end-to-end machine learning system that predicts credit card default risk, provides explainable AI insights via SHAP, and features a built-in LangChain Agentic Copilot to automate document parsing via OCR.
-
 ---
-
 ## Problem Statement
 
 Consumer credit default costs financial institutions billions annually. Traditional manual underwriting misses complex patterns, and loan officers spend countless hours manually extracting data from messy bank statements.
